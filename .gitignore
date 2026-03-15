@@ -1,0 +1,6 @@
+.env
+crewai-env/
+venv/
+__pycache__/
+*.pyc
+audit_*.md
